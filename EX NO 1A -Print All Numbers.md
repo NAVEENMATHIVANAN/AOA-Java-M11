@@ -23,8 +23,8 @@ To write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Print All Numbers from 1 to N
-Developed by: VENNKATANATHAN P R
-Register Number: 212223240173
+Developed by: Naveen Kumar M
+Register Number: 212222110028
 */
 import java.util.*;
 
